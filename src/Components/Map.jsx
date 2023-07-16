@@ -50,7 +50,7 @@ const Map = () => {
               </div>
               <div className="flex-col justify-start items-center gap-2 flex">
                 <div className="text-center font-Jackdean text-white text-5xl font-normal leading-[57.60px] tracking-wide">
-                  Pepe phase
+                  Pepe stage{" "}
                 </div>
                 <div className="text-center text-white text-[32px] font-normal leading-[38.40px] tracking-wide">
                   - 1,000 holders <br />- Twitter trending <br />-{" "}
