@@ -1,8 +1,6 @@
 import React from "react";
-import Tax from "../assets/tax.png";
-import Buy from "../assets/buy.png";
-import Supply from "../assets/supply.png";
-import mics from "../assets/mics.png"
+
+import mics from "../assets/mics.svg";
 
 const Mics = () => {
   return (
