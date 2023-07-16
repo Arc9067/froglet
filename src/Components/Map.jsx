@@ -2,6 +2,7 @@ import React from "react";
 import Phase1 from "../assets/phase1.png";
 import Phase2 from "../assets/phase2.png";
 import Phase3 from "../assets/phase3.png";
+import map from "../assets/map.png";
 
 const Map = () => {
   return (
@@ -15,7 +16,7 @@ const Map = () => {
           <div className="px-[37px] py-[58px] bg-green-500 rounded-[30px] flex-col justify-center items-center inline-flex">
             <div className="self-stretch flex-col justify-start items-center gap-7 inline-flex">
               <div className="pr-[5.15px] pt-[12.14px] rounded-[183.93px] justify-start items-center inline-flex">
-                <img className="" src={Phase1} />
+                <img className="" src={map} />
               </div>
               <div className="flex-col justify-start items-center gap-2 flex">
                 <div className="text-center font-Jackdean text-white text-5xl font-normal leading-[57.60px] tracking-wide">
@@ -30,7 +31,7 @@ const Map = () => {
           </div>
           <div className="px-[37px] py-[58px] bg-green-500 rounded-[30px] flex-col justify-center items-center inline-flex">
             <div className="self-stretch flex-col justify-start items-center gap-7 inline-flex">
-              <img className="" src={Phase2} />
+              <img className="" src={map} />
               <div className="flex-col justify-start items-center gap-2 flex">
                 <div className="text-center font-Jackdean text-white text-5xl font-normal leading-[57.60px] tracking-wide">
                   Froglet stage
@@ -45,7 +46,7 @@ const Map = () => {
           <div className="px-[37px] py-[58px] bg-green-500 rounded-[30px] flex-col justify-center items-center inline-flex">
             <div className="self-stretch flex-col justify-start items-center gap-7 inline-flex">
               <div className="pr-[5.15px] pt-[12.14px] rounded-[183.93px] justify-start items-center inline-flex">
-                <img className="" src={Phase3} />
+                <img className="" src={map} />
               </div>
               <div className="flex-col justify-start items-center gap-2 flex">
                 <div className="text-center font-Jackdean text-white text-5xl font-normal leading-[57.60px] tracking-wide">
