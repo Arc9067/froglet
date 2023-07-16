@@ -19,11 +19,11 @@ const Map = () => {
               </div>
               <div className="flex-col justify-start items-center gap-2 flex">
                 <div className="text-center font-Jackdean text-white text-5xl font-normal leading-[57.60px] tracking-wide">
-                  phase 1
+                  Tadpole stage
                 </div>
-                <div className="w-[286px] text-center text-white text-[32px] font-normal leading-[38.40px] tracking-wide">
-                  Contract CreationOrdinal InscriptionCommunity & SocialsFair
-                  Launch
+                <div className="text-center text-white text-[32px] font-normal leading-[38.40px] tracking-wide">
+                  - Socials & website <br />- Contract creation <br />-
+                  Prelaunch marketing
                 </div>
               </div>
             </div>
@@ -33,11 +33,11 @@ const Map = () => {
               <img className="" src={Phase2} />
               <div className="flex-col justify-start items-center gap-2 flex">
                 <div className="text-center font-Jackdean text-white text-5xl font-normal leading-[57.60px] tracking-wide">
-                  phase 2
+                  Froglet stage
                 </div>
-                <div className="w-[286px] text-center text-white text-[32px] font-normal leading-[38.40px] tracking-wide">
-                  Contract CreationOrdinal InscriptionCommunity & SocialsFair
-                  Launch
+                <div className="text-center text-white text-[32px] font-normal leading-[38.40px] tracking-wide">
+                  - Community building <br />- Official Froglet launch <br />-
+                  Post launch marketing
                 </div>
               </div>
             </div>
@@ -49,11 +49,12 @@ const Map = () => {
               </div>
               <div className="flex-col justify-start items-center gap-2 flex">
                 <div className="text-center font-Jackdean text-white text-5xl font-normal leading-[57.60px] tracking-wide">
-                  phase 3
+                  Pepe phase
                 </div>
-                <div className="w-[286px] text-center text-white text-[32px] font-normal leading-[38.40px] tracking-wide">
-                  Contract CreationOrdinal InscriptionCommunity & SocialsFair
-                  Launch
+                <div className="text-center text-white text-[32px] font-normal leading-[38.40px] tracking-wide">
+                  - 1,000 holders <br />- Twitter trending <br />-{" "}
+                  <span className="font-Jackdean">CG / CMC </span>
+                  listings
                 </div>
               </div>
             </div>

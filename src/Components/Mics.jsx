@@ -12,12 +12,12 @@ const Mics = () => {
         </h1>
 
         <div className="justify-start items-start font-Jackdean gap-6 flex flex-col lg:flex-row mt-16">
-          <div className="h-[343px] w-full lg:w-auto pl-[126px] pr-[125px] py-[55px] bg-[#4AB24E] rounded-[30px] justify-center items-center flex">
+          <div className=" w-full lg:w-auto pl-[126px] pr-[125px] py-[55px] bg-[#4AB24E] rounded-[30px] justify-center items-center flex">
             <div className="self-stretch flex-col justify-start items-center gap-6 inline-flex">
               <img className="" src={Tax} />
               <div className="flex-col justify-start items-center gap-1 flex">
                 <div className="text-center text-white text-5xl font-normal leading-[57.60px] tracking-wide">
-                  5%
+                  1%
                 </div>
                 <div className="text-center text-white text-[32px] font-normal leading-[38.40px] tracking-wide">
                   Tax
@@ -30,10 +30,10 @@ const Mics = () => {
               <img className="" src={Buy} />
               <div className="flex-col justify-start items-center gap-1 flex">
                 <div className="text-center text-white text-5xl font-normal leading-[57.60px] tracking-wide">
-                  5%
+                  1 Billion
                 </div>
                 <div className="text-center text-white text-[32px] font-normal leading-[38.40px] tracking-wide">
-                  Buy & Sell
+                  supply
                 </div>
               </div>
             </div>
@@ -43,10 +43,10 @@ const Mics = () => {
               <img className="" src={Supply} />
               <div className="flex-col justify-start items-center gap-1 flex">
                 <div className="text-center text-white text-5xl font-normal leading-[57.60px] tracking-wide">
-                  100 million
+                  2%
                 </div>
                 <div className="text-center text-white text-[32px] font-normal leading-[38.40px] tracking-wide">
-                  Total Supply
+                  Max Wallet
                 </div>
               </div>
             </div>
