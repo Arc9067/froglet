@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="py-8">
       <div className="container flex items-center gap-6 flex-col lg:flex-row justify-between">
         <div className="text-white text-center text-xl font-stardosStencil">
-          Copyright © {new Date().getFullYear()} Pepe. All Rights Reserved.
+          Copyright © {new Date().getFullYear()} Froglet. All Rights Reserved.
         </div>
         <img src={Logo} alt="" className="w-[6rem]" />
         <div className="flex items-center gap-6">
