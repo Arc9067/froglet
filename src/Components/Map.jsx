@@ -1,7 +1,7 @@
 import React from "react";
-import Phase1 from "../assets/phase1.png";
-import Phase2 from "../assets/phase2.png";
-import Phase3 from "../assets/phase3.png";
+// import Phase1 from "../assets/phase1.png";
+// import Phase2 from "../assets/phase2.png";
+// import Phase3 from "../assets/phase3.png";
 import map from "../assets/map.png";
 
 const Map = () => {

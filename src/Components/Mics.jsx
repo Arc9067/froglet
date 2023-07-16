@@ -2,6 +2,7 @@ import React from "react";
 import Tax from "../assets/tax.png";
 import Buy from "../assets/buy.png";
 import Supply from "../assets/supply.png";
+import mics from "../assets/mics.png"
 
 const Mics = () => {
   return (
@@ -14,7 +15,7 @@ const Mics = () => {
         <div className="justify-start items-start font-Jackdean gap-6 flex flex-col lg:flex-row mt-16">
           <div className=" w-full lg:w-auto pl-[126px] pr-[125px] py-[55px] bg-[#4AB24E] rounded-[30px] justify-center items-center flex">
             <div className="self-stretch flex-col justify-start items-center gap-6 inline-flex">
-              <img className="" src={Tax} />
+              <img className="" src={mics} />
               <div className="flex-col justify-start items-center gap-1 flex">
                 <div className="text-center text-white text-5xl font-normal leading-[57.60px] tracking-wide">
                   1%
@@ -27,7 +28,7 @@ const Mics = () => {
           </div>
           <div className="pl-[103.50px] w-full lg:w-auto pr-[102.50px] py-[55px] bg-[#4AB24E] rounded-[30px] justify-center items-center flex">
             <div className="self-stretch flex-col justify-start items-center gap-6 inline-flex">
-              <img className="" src={Buy} />
+              <img className="" src={mics} />
               <div className="flex-col justify-start items-center gap-1 flex">
                 <div className="text-center text-white text-5xl font-normal leading-[57.60px] tracking-wide">
                   1 Billion
@@ -40,7 +41,7 @@ const Mics = () => {
           </div>
           <div className="pl-[47.50px] w-full lg:w-auto pr-[46.50px] py-[55px] bg-[#4AB24E] rounded-[30px] justify-center items-center flex">
             <div className="self-stretch flex-col justify-start items-center gap-6 inline-flex">
-              <img className="" src={Supply} />
+              <img className="" src={mics} />
               <div className="flex-col justify-start items-center gap-1 flex">
                 <div className="text-center text-white text-5xl font-normal leading-[57.60px] tracking-wide">
                   2%
