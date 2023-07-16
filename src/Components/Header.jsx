@@ -9,7 +9,10 @@ const Header = () => {
             froglet
           </div>
         </a>
-        <a href="" className="transition hover:scale-90">
+        <a
+          href="https://t.me/FrogletCoin"
+          className="transition hover:scale-90"
+        >
           <div className="w-[173px] h-[60px] px-8 py-4 bg-amber-500 rounded shadow justify-center items-center gap-2.5 inline-flex">
             <div className="text-white text-xl font-Jackdean leading-7 tracking-tight">
               TELEGRAM
