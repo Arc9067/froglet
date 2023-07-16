@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Ultra&display=swap");
+@import url("https://fonts.cdnfonts.com/css/jackdean");
+@import url("https://fonts.cdnfonts.com/css/stardos-stencil");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Tango BT";
+  src: url(./assets/TangoBT.ttf);
+}
+
+@layer {
+  #hero {
+    background: linear-gradient(180deg, #4cb04e 0%, #9afb9d 100%);
+  }
+}
