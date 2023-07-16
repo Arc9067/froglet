@@ -54,7 +54,9 @@ const Map = () => {
                 </div>
                 <div className="text-center text-white text-[32px] font-normal leading-[38.40px] tracking-wide">
                   - 1,000 holders <br />- Twitter trending <br />-{" "}
-                  <span className="font-Jackdean">CG / CMC </span>
+                  <span className="font-stardosStencil text-xl font-bold">
+                    CG / CMC{" "}
+                  </span>
                   listings
                 </div>
               </div>
