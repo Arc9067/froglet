@@ -43,7 +43,7 @@ const Map = () => {
               </div>
             </div>
           </div>
-          <div className="px-[37px] py-[58px] bg-green-500 rounded-[30px] flex-col justify-center items-center inline-flex">
+          <div className="px-[37px] w-full lg:w-auto py-[58px] bg-green-500 rounded-[30px] flex-col justify-center items-center inline-flex">
             <div className="self-stretch flex-col justify-start items-center gap-7 inline-flex">
               <div className="pr-[5.15px] pt-[12.14px] rounded-[183.93px] justify-start items-center inline-flex">
                 <img className="" src={map} />
